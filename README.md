@@ -3,7 +3,7 @@
 ## Introduction
 - WanderHub is an intelligent tourism platform developed to revolutionize how travelers plan and experience their journeys. 
 - By utilizing data-driven insights and cutting-edge optimization algorithms, WanderHub personalizes hotel recommendations and travel itineraries based on each user’s unique preferences, such as budget, activities, and health considerations. 
-- Recognizing the limitations of traditional platforms, which often fail to address individual needs effectively, WanderHub employs Genetic Algorithms and Simulated Annealing to create customized travel plans, reducing the time and effort needed for manual planning. 
+- Recognizing the limitations of traditional platforms, which often fail to address individual needs effectively, WanderHub employs Genetic Algorithms and Simulated Annealing to create customized travel plans, reducing the time and effort needed for manual planning.
 - This approach enhances traveler satisfaction and makes the planning process both seamless and enjoyable. 
 - An essential feature of WanderHub is its use of Counterfactual Analysis, allowing users to explore alternative scenarios by modifying specific travel parameters, such as budget or hotel ratings. 
 - This “what-if” functionality offers flexibility and adaptability, empowering users to make well-informed choices suited to changing travel conditions. 
@@ -15,4 +15,4 @@ A huge challenge in the tourism industry lies in being able to offer customized,
 ## Research Objectives
 - To develop a recommendation system that suggests hotel details based on user preferences.
 - To develop a counterfactual-based recommendation system providing alternative options if any “What-if” scenario arises.
-- To design and implement a genetic algorithm and simulated annealing approach to optimize travel itineraries based on user preferences.
+- To design and implement a hybrid Genetic Algorithm-Simulated Annealing approach to optimize travel itineraries based on user preferences.
