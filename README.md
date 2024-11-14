@@ -8,4 +8,3 @@
 - An essential feature of WanderHub is its use of Counterfactual Analysis, allowing users to explore alternative scenarios by modifying specific travel parameters, such as budget or hotel ratings. 
 - This “what-if” functionality offers flexibility and adaptability, empowering users to make well-informed choices suited to changing travel conditions. 
 - By integrating these smart capabilities, WanderHub addresses key pain points in the tourism industry, such as decisional fatigue and information overload, offering a comprehensive solution that benefits both travelers and tourism providers.
-![image](https://github.com/user-attachments/assets/c4d8ae76-0422-4491-9205-1e5c37d0419f)
